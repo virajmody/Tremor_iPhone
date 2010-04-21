@@ -1,0 +1,341 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 45;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		C00FCCE0117FC01900E64659 /* bitwise.c in Sources */ = {isa = PBXBuildFile; fileRef = C00FCCD1117FC01900E64659 /* bitwise.c */; };
+		C00FCCE1117FC01900E64659 /* block.c in Sources */ = {isa = PBXBuildFile; fileRef = C00FCCD2117FC01900E64659 /* block.c */; };
+		C00FCCE2117FC01900E64659 /* codebook.c in Sources */ = {isa = PBXBuildFile; fileRef = C00FCCD3117FC01900E64659 /* codebook.c */; };
+		C00FCCE3117FC01900E64659 /* floor0.c in Sources */ = {isa = PBXBuildFile; fileRef = C00FCCD4117FC01900E64659 /* floor0.c */; };
+		C00FCCE4117FC01900E64659 /* floor1.c in Sources */ = {isa = PBXBuildFile; fileRef = C00FCCD5117FC01900E64659 /* floor1.c */; };
+		C00FCCE5117FC01900E64659 /* framing.c in Sources */ = {isa = PBXBuildFile; fileRef = C00FCCD6117FC01900E64659 /* framing.c */; };
+		C00FCCE6117FC01900E64659 /* info.c in Sources */ = {isa = PBXBuildFile; fileRef = C00FCCD7117FC01900E64659 /* info.c */; };
+		C00FCCE7117FC01900E64659 /* mapping0.c in Sources */ = {isa = PBXBuildFile; fileRef = C00FCCD8117FC01900E64659 /* mapping0.c */; };
+		C00FCCE8117FC01900E64659 /* mdct.c in Sources */ = {isa = PBXBuildFile; fileRef = C00FCCD9117FC01900E64659 /* mdct.c */; };
+		C00FCCE9117FC01900E64659 /* registry.c in Sources */ = {isa = PBXBuildFile; fileRef = C00FCCDA117FC01900E64659 /* registry.c */; };
+		C00FCCEA117FC01900E64659 /* res012.c in Sources */ = {isa = PBXBuildFile; fileRef = C00FCCDB117FC01900E64659 /* res012.c */; };
+		C00FCCEB117FC01900E64659 /* sharedbook.c in Sources */ = {isa = PBXBuildFile; fileRef = C00FCCDC117FC01900E64659 /* sharedbook.c */; };
+		C00FCCEC117FC01900E64659 /* synthesis.c in Sources */ = {isa = PBXBuildFile; fileRef = C00FCCDD117FC01900E64659 /* synthesis.c */; };
+		C00FCCED117FC01900E64659 /* vorbisfile.c in Sources */ = {isa = PBXBuildFile; fileRef = C00FCCDE117FC01900E64659 /* vorbisfile.c */; };
+		C00FCCEE117FC01900E64659 /* window.c in Sources */ = {isa = PBXBuildFile; fileRef = C00FCCDF117FC01900E64659 /* window.c */; };
+		C00FCCFB117FC03000E64659 /* ivorbiscodec.h in Headers */ = {isa = PBXBuildFile; fileRef = C00FCCEF117FC03000E64659 /* ivorbiscodec.h */; };
+		C00FCCFC117FC03000E64659 /* ivorbisfile.h in Headers */ = {isa = PBXBuildFile; fileRef = C00FCCF0117FC03000E64659 /* ivorbisfile.h */; };
+		C00FCCFD117FC03000E64659 /* lsp_lookup.h in Headers */ = {isa = PBXBuildFile; fileRef = C00FCCF1117FC03000E64659 /* lsp_lookup.h */; };
+		C00FCCFE117FC03000E64659 /* mdct_lookup.h in Headers */ = {isa = PBXBuildFile; fileRef = C00FCCF2117FC03000E64659 /* mdct_lookup.h */; };
+		C00FCCFF117FC03000E64659 /* mdct.h in Headers */ = {isa = PBXBuildFile; fileRef = C00FCCF3117FC03000E64659 /* mdct.h */; };
+		C00FCD00117FC03000E64659 /* misc.h in Headers */ = {isa = PBXBuildFile; fileRef = C00FCCF4117FC03000E64659 /* misc.h */; };
+		C00FCD01117FC03000E64659 /* ogg.h in Headers */ = {isa = PBXBuildFile; fileRef = C00FCCF5117FC03000E64659 /* ogg.h */; };
+		C00FCD02117FC03000E64659 /* os_types.h in Headers */ = {isa = PBXBuildFile; fileRef = C00FCCF6117FC03000E64659 /* os_types.h */; };
+		C00FCD03117FC03000E64659 /* os.h in Headers */ = {isa = PBXBuildFile; fileRef = C00FCCF7117FC03000E64659 /* os.h */; };
+		C00FCD04117FC03000E64659 /* registry.h in Headers */ = {isa = PBXBuildFile; fileRef = C00FCCF8117FC03000E64659 /* registry.h */; };
+		C00FCD05117FC03000E64659 /* window_lookup.h in Headers */ = {isa = PBXBuildFile; fileRef = C00FCCF9117FC03000E64659 /* window_lookup.h */; };
+		C00FCD06117FC03000E64659 /* window.h in Headers */ = {isa = PBXBuildFile; fileRef = C00FCCFA117FC03000E64659 /* window.h */; };
+		C00FCD12117FC08100E64659 /* asm_arm.h in Headers */ = {isa = PBXBuildFile; fileRef = C00FCD0C117FC08100E64659 /* asm_arm.h */; };
+		C00FCD13117FC08100E64659 /* backends.h in Headers */ = {isa = PBXBuildFile; fileRef = C00FCD0D117FC08100E64659 /* backends.h */; };
+		C00FCD14117FC08100E64659 /* block.h in Headers */ = {isa = PBXBuildFile; fileRef = C00FCD0E117FC08100E64659 /* block.h */; };
+		C00FCD15117FC08100E64659 /* codebook.h in Headers */ = {isa = PBXBuildFile; fileRef = C00FCD0F117FC08100E64659 /* codebook.h */; };
+		C00FCD16117FC08100E64659 /* codec_internal.h in Headers */ = {isa = PBXBuildFile; fileRef = C00FCD10117FC08100E64659 /* codec_internal.h */; };
+		C00FCD17117FC08100E64659 /* config_types.h in Headers */ = {isa = PBXBuildFile; fileRef = C00FCD11117FC08100E64659 /* config_types.h */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		C00FCCD1117FC01900E64659 /* bitwise.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = bitwise.c; path = ../bitwise.c; sourceTree = SOURCE_ROOT; };
+		C00FCCD2117FC01900E64659 /* block.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = block.c; path = ../block.c; sourceTree = SOURCE_ROOT; };
+		C00FCCD3117FC01900E64659 /* codebook.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = codebook.c; path = ../codebook.c; sourceTree = SOURCE_ROOT; };
+		C00FCCD4117FC01900E64659 /* floor0.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = floor0.c; path = ../floor0.c; sourceTree = SOURCE_ROOT; };
+		C00FCCD5117FC01900E64659 /* floor1.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = floor1.c; path = ../floor1.c; sourceTree = SOURCE_ROOT; };
+		C00FCCD6117FC01900E64659 /* framing.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = framing.c; path = ../framing.c; sourceTree = SOURCE_ROOT; };
+		C00FCCD7117FC01900E64659 /* info.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = info.c; path = ../info.c; sourceTree = SOURCE_ROOT; };
+		C00FCCD8117FC01900E64659 /* mapping0.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = mapping0.c; path = ../mapping0.c; sourceTree = SOURCE_ROOT; };
+		C00FCCD9117FC01900E64659 /* mdct.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = mdct.c; path = ../mdct.c; sourceTree = SOURCE_ROOT; };
+		C00FCCDA117FC01900E64659 /* registry.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = registry.c; path = ../registry.c; sourceTree = SOURCE_ROOT; };
+		C00FCCDB117FC01900E64659 /* res012.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = res012.c; path = ../res012.c; sourceTree = SOURCE_ROOT; };
+		C00FCCDC117FC01900E64659 /* sharedbook.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = sharedbook.c; path = ../sharedbook.c; sourceTree = SOURCE_ROOT; };
+		C00FCCDD117FC01900E64659 /* synthesis.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = synthesis.c; path = ../synthesis.c; sourceTree = SOURCE_ROOT; };
+		C00FCCDE117FC01900E64659 /* vorbisfile.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = vorbisfile.c; path = ../vorbisfile.c; sourceTree = SOURCE_ROOT; };
+		C00FCCDF117FC01900E64659 /* window.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; name = window.c; path = ../window.c; sourceTree = SOURCE_ROOT; };
+		C00FCCEF117FC03000E64659 /* ivorbiscodec.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ivorbiscodec.h; path = ../ivorbiscodec.h; sourceTree = SOURCE_ROOT; };
+		C00FCCF0117FC03000E64659 /* ivorbisfile.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ivorbisfile.h; path = ../ivorbisfile.h; sourceTree = SOURCE_ROOT; };
+		C00FCCF1117FC03000E64659 /* lsp_lookup.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = lsp_lookup.h; path = ../lsp_lookup.h; sourceTree = SOURCE_ROOT; };
+		C00FCCF2117FC03000E64659 /* mdct_lookup.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = mdct_lookup.h; path = ../mdct_lookup.h; sourceTree = SOURCE_ROOT; };
+		C00FCCF3117FC03000E64659 /* mdct.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = mdct.h; path = ../mdct.h; sourceTree = SOURCE_ROOT; };
+		C00FCCF4117FC03000E64659 /* misc.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = misc.h; path = ../misc.h; sourceTree = SOURCE_ROOT; };
+		C00FCCF5117FC03000E64659 /* ogg.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = ogg.h; path = ../ogg.h; sourceTree = SOURCE_ROOT; };
+		C00FCCF6117FC03000E64659 /* os_types.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = os_types.h; path = ../os_types.h; sourceTree = SOURCE_ROOT; };
+		C00FCCF7117FC03000E64659 /* os.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = os.h; path = ../os.h; sourceTree = SOURCE_ROOT; };
+		C00FCCF8117FC03000E64659 /* registry.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = registry.h; path = ../registry.h; sourceTree = SOURCE_ROOT; };
+		C00FCCF9117FC03000E64659 /* window_lookup.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = window_lookup.h; path = ../window_lookup.h; sourceTree = SOURCE_ROOT; };
+		C00FCCFA117FC03000E64659 /* window.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = window.h; path = ../window.h; sourceTree = SOURCE_ROOT; };
+		C00FCD0C117FC08100E64659 /* asm_arm.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = asm_arm.h; path = ../asm_arm.h; sourceTree = SOURCE_ROOT; };
+		C00FCD0D117FC08100E64659 /* backends.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = backends.h; path = ../backends.h; sourceTree = SOURCE_ROOT; };
+		C00FCD0E117FC08100E64659 /* block.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = block.h; path = ../block.h; sourceTree = SOURCE_ROOT; };
+		C00FCD0F117FC08100E64659 /* codebook.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = codebook.h; path = ../codebook.h; sourceTree = SOURCE_ROOT; };
+		C00FCD10117FC08100E64659 /* codec_internal.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = codec_internal.h; path = ../codec_internal.h; sourceTree = SOURCE_ROOT; };
+		C00FCD11117FC08100E64659 /* config_types.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = config_types.h; path = ../config_types.h; sourceTree = SOURCE_ROOT; };
+		D2AAC07E0554694100DB518D /* libvorbisidec.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libvorbisidec.a; sourceTree = BUILT_PRODUCTS_DIR; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		D2AAC07C0554694100DB518D /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		034768DFFF38A50411DB9C8B /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				D2AAC07E0554694100DB518D /* libvorbisidec.a */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		0867D691FE84028FC02AAC07 /* iPhoneOS */ = {
+			isa = PBXGroup;
+			children = (
+				C00FCB74117F80A600E64659 /* Headers */,
+				08FB77AEFE84172EC02AAC07 /* Classes */,
+				034768DFFF38A50411DB9C8B /* Products */,
+			);
+			name = iPhoneOS;
+			sourceTree = "<group>";
+		};
+		08FB77AEFE84172EC02AAC07 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				C00FCCD1117FC01900E64659 /* bitwise.c */,
+				C00FCCD2117FC01900E64659 /* block.c */,
+				C00FCCD3117FC01900E64659 /* codebook.c */,
+				C00FCCD4117FC01900E64659 /* floor0.c */,
+				C00FCCD5117FC01900E64659 /* floor1.c */,
+				C00FCCD6117FC01900E64659 /* framing.c */,
+				C00FCCD7117FC01900E64659 /* info.c */,
+				C00FCCD8117FC01900E64659 /* mapping0.c */,
+				C00FCCD9117FC01900E64659 /* mdct.c */,
+				C00FCCDA117FC01900E64659 /* registry.c */,
+				C00FCCDB117FC01900E64659 /* res012.c */,
+				C00FCCDC117FC01900E64659 /* sharedbook.c */,
+				C00FCCDD117FC01900E64659 /* synthesis.c */,
+				C00FCCDE117FC01900E64659 /* vorbisfile.c */,
+				C00FCCDF117FC01900E64659 /* window.c */,
+			);
+			name = Classes;
+			sourceTree = "<group>";
+		};
+		C00FCB74117F80A600E64659 /* Headers */ = {
+			isa = PBXGroup;
+			children = (
+				C00FCD0C117FC08100E64659 /* asm_arm.h */,
+				C00FCD0D117FC08100E64659 /* backends.h */,
+				C00FCD0E117FC08100E64659 /* block.h */,
+				C00FCD0F117FC08100E64659 /* codebook.h */,
+				C00FCD10117FC08100E64659 /* codec_internal.h */,
+				C00FCD11117FC08100E64659 /* config_types.h */,
+				C00FCCEF117FC03000E64659 /* ivorbiscodec.h */,
+				C00FCCF0117FC03000E64659 /* ivorbisfile.h */,
+				C00FCCF1117FC03000E64659 /* lsp_lookup.h */,
+				C00FCCF2117FC03000E64659 /* mdct_lookup.h */,
+				C00FCCF3117FC03000E64659 /* mdct.h */,
+				C00FCCF4117FC03000E64659 /* misc.h */,
+				C00FCCF5117FC03000E64659 /* ogg.h */,
+				C00FCCF6117FC03000E64659 /* os_types.h */,
+				C00FCCF7117FC03000E64659 /* os.h */,
+				C00FCCF8117FC03000E64659 /* registry.h */,
+				C00FCCF9117FC03000E64659 /* window_lookup.h */,
+				C00FCCFA117FC03000E64659 /* window.h */,
+			);
+			name = Headers;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		D2AAC07A0554694100DB518D /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C00FCCFB117FC03000E64659 /* ivorbiscodec.h in Headers */,
+				C00FCCFC117FC03000E64659 /* ivorbisfile.h in Headers */,
+				C00FCCFD117FC03000E64659 /* lsp_lookup.h in Headers */,
+				C00FCCFE117FC03000E64659 /* mdct_lookup.h in Headers */,
+				C00FCCFF117FC03000E64659 /* mdct.h in Headers */,
+				C00FCD00117FC03000E64659 /* misc.h in Headers */,
+				C00FCD01117FC03000E64659 /* ogg.h in Headers */,
+				C00FCD02117FC03000E64659 /* os_types.h in Headers */,
+				C00FCD03117FC03000E64659 /* os.h in Headers */,
+				C00FCD04117FC03000E64659 /* registry.h in Headers */,
+				C00FCD05117FC03000E64659 /* window_lookup.h in Headers */,
+				C00FCD06117FC03000E64659 /* window.h in Headers */,
+				C00FCD12117FC08100E64659 /* asm_arm.h in Headers */,
+				C00FCD13117FC08100E64659 /* backends.h in Headers */,
+				C00FCD14117FC08100E64659 /* block.h in Headers */,
+				C00FCD15117FC08100E64659 /* codebook.h in Headers */,
+				C00FCD16117FC08100E64659 /* codec_internal.h in Headers */,
+				C00FCD17117FC08100E64659 /* config_types.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		D2AAC07D0554694100DB518D /* iPhoneOS */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 1DEB921E08733DC00010E9CD /* Build configuration list for PBXNativeTarget "iPhoneOS" */;
+			buildPhases = (
+				D2AAC07A0554694100DB518D /* Headers */,
+				D2AAC07B0554694100DB518D /* Sources */,
+				D2AAC07C0554694100DB518D /* Frameworks */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = iPhoneOS;
+			productName = iPhoneOS;
+			productReference = D2AAC07E0554694100DB518D /* libvorbisidec.a */;
+			productType = "com.apple.product-type.library.static";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		0867D690FE84028FC02AAC07 /* Project object */ = {
+			isa = PBXProject;
+			buildConfigurationList = 1DEB922208733DC00010E9CD /* Build configuration list for PBXProject "iPhoneOS" */;
+			compatibilityVersion = "Xcode 3.1";
+			hasScannedForEncodings = 1;
+			mainGroup = 0867D691FE84028FC02AAC07 /* iPhoneOS */;
+			productRefGroup = 034768DFFF38A50411DB9C8B /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				D2AAC07D0554694100DB518D /* iPhoneOS */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXSourcesBuildPhase section */
+		D2AAC07B0554694100DB518D /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				C00FCCE0117FC01900E64659 /* bitwise.c in Sources */,
+				C00FCCE1117FC01900E64659 /* block.c in Sources */,
+				C00FCCE2117FC01900E64659 /* codebook.c in Sources */,
+				C00FCCE3117FC01900E64659 /* floor0.c in Sources */,
+				C00FCCE4117FC01900E64659 /* floor1.c in Sources */,
+				C00FCCE5117FC01900E64659 /* framing.c in Sources */,
+				C00FCCE6117FC01900E64659 /* info.c in Sources */,
+				C00FCCE7117FC01900E64659 /* mapping0.c in Sources */,
+				C00FCCE8117FC01900E64659 /* mdct.c in Sources */,
+				C00FCCE9117FC01900E64659 /* registry.c in Sources */,
+				C00FCCEA117FC01900E64659 /* res012.c in Sources */,
+				C00FCCEB117FC01900E64659 /* sharedbook.c in Sources */,
+				C00FCCEC117FC01900E64659 /* synthesis.c in Sources */,
+				C00FCCED117FC01900E64659 /* vorbisfile.c in Sources */,
+				C00FCCEE117FC01900E64659 /* window.c in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		1DEB921F08733DC00010E9CD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				COPY_PHASE_STRIP = NO;
+				DSTROOT = /tmp/iPhoneOS.dst;
+				GCC_CW_ASM_SYNTAX = YES;
+				GCC_C_LANGUAGE_STANDARD = "compiler-default";
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_ENABLE_FIX_AND_CONTINUE = YES;
+				GCC_MODEL_TUNING = G5;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_VERSION = 4.2;
+				INSTALL_PATH = /usr/local/lib;
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = vorbisidec;
+				SDKROOT = iphoneos3.1;
+			};
+			name = Debug;
+		};
+		1DEB922008733DC00010E9CD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				DSTROOT = /tmp/iPhoneOS.dst;
+				GCC_CW_ASM_SYNTAX = YES;
+				GCC_C_LANGUAGE_STANDARD = "compiler-default";
+				GCC_MODEL_TUNING = G5;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_VERSION = 4.2;
+				INSTALL_PATH = /usr/local/lib;
+				OTHER_LDFLAGS = "";
+				PRODUCT_NAME = vorbisidec;
+				SDKROOT = iphoneos3.1;
+			};
+			name = Release;
+		};
+		1DEB922308733DC00010E9CD /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_LDFLAGS = "-ObjC";
+				PREBINDING = NO;
+				SDKROOT = iphoneos3.2;
+			};
+			name = Debug;
+		};
+		1DEB922408733DC00010E9CD /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				GCC_C_LANGUAGE_STANDARD = c99;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				OTHER_LDFLAGS = "-ObjC";
+				PREBINDING = NO;
+				SDKROOT = iphoneos3.2;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		1DEB921E08733DC00010E9CD /* Build configuration list for PBXNativeTarget "iPhoneOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1DEB921F08733DC00010E9CD /* Debug */,
+				1DEB922008733DC00010E9CD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		1DEB922208733DC00010E9CD /* Build configuration list for PBXProject "iPhoneOS" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				1DEB922308733DC00010E9CD /* Debug */,
+				1DEB922408733DC00010E9CD /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 0867D690FE84028FC02AAC07 /* Project object */;
+}

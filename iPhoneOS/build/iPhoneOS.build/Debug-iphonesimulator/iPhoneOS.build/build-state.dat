@@ -1,0 +1,694 @@
+TiPhoneOS
+v7
+r0
+t293585182.167104
+cCheck dependencies
+cCompileC build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/bitwise.o /Users/viraj/GitHub/Tremor/iPhoneOS/../bitwise.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/block.o /Users/viraj/GitHub/Tremor/iPhoneOS/../block.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/codebook.o /Users/viraj/GitHub/Tremor/iPhoneOS/../codebook.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/floor0.o /Users/viraj/GitHub/Tremor/iPhoneOS/../floor0.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/floor1.o /Users/viraj/GitHub/Tremor/iPhoneOS/../floor1.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/framing.o /Users/viraj/GitHub/Tremor/iPhoneOS/../framing.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/info.o /Users/viraj/GitHub/Tremor/iPhoneOS/../info.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/mapping0.o /Users/viraj/GitHub/Tremor/iPhoneOS/../mapping0.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/mdct.o /Users/viraj/GitHub/Tremor/iPhoneOS/../mdct.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/registry.o /Users/viraj/GitHub/Tremor/iPhoneOS/../registry.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/res012.o /Users/viraj/GitHub/Tremor/iPhoneOS/../res012.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/sharedbook.o /Users/viraj/GitHub/Tremor/iPhoneOS/../sharedbook.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/synthesis.o /Users/viraj/GitHub/Tremor/iPhoneOS/../synthesis.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/vorbisfile.o /Users/viraj/GitHub/Tremor/iPhoneOS/../vorbisfile.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/window.o /Users/viraj/GitHub/Tremor/iPhoneOS/../window.c normal i386 c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk
+c000000004A9F670A00000000000000EE
+t1251960586
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/usr/include/alloca.h
+c000000004748A1310000000000000588
+t1195942193
+s1416
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/usr/include/ctype.h
+c000000004748A1320000000000002C3A
+t1195942194
+s11322
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/usr/include/errno.h
+c000000004748A13100000000000003EB
+t1195942193
+s1003
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/usr/include/inttypes.h
+c000000004748A13100000000000027D1
+t1195942193
+s10193
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/usr/include/math.h
+c000000004748A10600000000000004B7
+t1195942150
+s1207
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/usr/include/memory.h
+c000000004748A1310000000000000765
+t1195942193
+s1893
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/usr/include/stdio.h
+c000000004748A1330000000000003D1D
+t1195942195
+s15645
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/usr/include/stdlib.h
+c000000004748A1330000000000002A79
+t1195942195
+s10873
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/usr/include/string.h
+c000000004748A1330000000000001731
+t1195942195
+s5937
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk/usr/include/sys/types.h
+c00000000476344C1000000000000290F
+t1197688001
+s10511
+
+N/Users/viraj/GitHub/Tremor/asm_arm.h
+c000000004BCF899C0000000000001973
+t1271892380
+s6515
+
+N/Users/viraj/GitHub/Tremor/backends.h
+c000000004BCF880B00000000000011E3
+t1271891979
+s4579
+i"codec_internal.h"
+
+N/Users/viraj/GitHub/Tremor/block.h
+c000000004BCF880B0000000000000455
+t1271891979
+s1109
+
+N/Users/viraj/GitHub/Tremor/codebook.h
+c000000004BCF880B0000000000001029
+t1271891979
+s4137
+i"ogg.h"
+
+N/Users/viraj/GitHub/Tremor/codec_internal.h
+c000000004BCF880B0000000000000C0C
+t1271891979
+s3084
+i"codebook.h"
+
+N/Users/viraj/GitHub/Tremor/config_types.h
+c000000004BCF880B0000000000000480
+t1271891979
+s1152
+
+N/Users/viraj/GitHub/Tremor/iPhoneOS/../bitwise.c
+c000000004BCF880B0000000000001BEB
+t1271891979
+s7147
+i<string.h>
+i<stdlib.h>
+i"ogg.h"
+
+N/Users/viraj/GitHub/Tremor/iPhoneOS/../block.c
+c000000004BCF880B000000000000332D
+t1271891979
+s13101
+i<stdio.h>
+i<stdlib.h>
+i<string.h>
+i"ogg.h"
+i"ivorbiscodec.h"
+i"codec_internal.h"
+i"window.h"
+i"registry.h"
+i"misc.h"
+
+N/Users/viraj/GitHub/Tremor/iPhoneOS/../codebook.c
+c000000004BCF880B0000000000002668
+t1271891979
+s9832
+i<stdlib.h>
+i<string.h>
+i<math.h>
+i"ogg.h"
+i"ivorbiscodec.h"
+i"codebook.h"
+i"misc.h"
+
+N/Users/viraj/GitHub/Tremor/iPhoneOS/../floor0.c
+c000000004BCF880B0000000000003091
+t1271891979
+s12433
+i<stdlib.h>
+i<string.h>
+i<math.h>
+i"ogg.h"
+i"ivorbiscodec.h"
+i"codec_internal.h"
+i"registry.h"
+i"codebook.h"
+i"misc.h"
+i"block.h"
+i"lsp_lookup.h"
+
+N/Users/viraj/GitHub/Tremor/iPhoneOS/../floor1.c
+c000000004BCF880B000000000000377E
+t1271891979
+s14206
+i<stdlib.h>
+i<string.h>
+i<math.h>
+i"ogg.h"
+i"ivorbiscodec.h"
+i"codec_internal.h"
+i"registry.h"
+i"codebook.h"
+i"misc.h"
+i"block.h"
+
+N/Users/viraj/GitHub/Tremor/iPhoneOS/../framing.c
+c000000004BCF880B000000000000754A
+t1271891979
+s30026
+i<stdlib.h>
+i<string.h>
+i"ogg.h"
+i"misc.h"
+
+N/Users/viraj/GitHub/Tremor/iPhoneOS/../info.c
+c000000004BCF880B0000000000002D8A
+t1271891979
+s11658
+i<stdlib.h>
+i<string.h>
+i<ctype.h>
+i"ogg.h"
+i"ivorbiscodec.h"
+i"codec_internal.h"
+i"codebook.h"
+i"registry.h"
+i"window.h"
+i"misc.h"
+
+N/Users/viraj/GitHub/Tremor/iPhoneOS/../mapping0.c
+c000000004BCF880B0000000000002467
+t1271891979
+s9319
+i<stdlib.h>
+i<stdio.h>
+i<string.h>
+i<math.h>
+i"ogg.h"
+i"ivorbiscodec.h"
+i"mdct.h"
+i"codec_internal.h"
+i"codebook.h"
+i"window.h"
+i"registry.h"
+i"misc.h"
+
+N/Users/viraj/GitHub/Tremor/iPhoneOS/../mdct.c
+c000000004BCF880B0000000000003635
+t1271891979
+s13877
+i"ivorbiscodec.h"
+i"codebook.h"
+i"misc.h"
+i"mdct.h"
+i"mdct_lookup.h"
+
+N/Users/viraj/GitHub/Tremor/iPhoneOS/../registry.c
+c000000004BCF880B00000000000006E9
+t1271891979
+s1769
+i"ivorbiscodec.h"
+i"codec_internal.h"
+i"registry.h"
+i"misc.h"
+
+N/Users/viraj/GitHub/Tremor/iPhoneOS/../res012.c
+c000000004BCF880B0000000000002435
+t1271891979
+s9269
+i<stdlib.h>
+i<string.h>
+i<math.h>
+i"ogg.h"
+i"ivorbiscodec.h"
+i"codec_internal.h"
+i"registry.h"
+i"codebook.h"
+i"misc.h"
+i"os.h"
+i"block.h"
+
+N/Users/viraj/GitHub/Tremor/iPhoneOS/../sharedbook.c
+c000000004BCF880B0000000000003141
+t1271891979
+s12609
+i<stdlib.h>
+i<math.h>
+i<string.h>
+i"ogg.h"
+i"misc.h"
+i"ivorbiscodec.h"
+i"codebook.h"
+
+N/Users/viraj/GitHub/Tremor/iPhoneOS/../synthesis.c
+c000000004BCF880B0000000000000D8C
+t1271891979
+s3468
+i<stdio.h>
+i"ogg.h"
+i"ivorbiscodec.h"
+i"codec_internal.h"
+i"registry.h"
+i"misc.h"
+i"block.h"
+
+N/Users/viraj/GitHub/Tremor/iPhoneOS/../vorbisfile.c
+c000000004BCF880B000000000000DB87
+t1271891979
+s56199
+i<stdlib.h>
+i<stdio.h>
+i<errno.h>
+i<string.h>
+i<math.h>
+i"ivorbiscodec.h"
+i"ivorbisfile.h"
+i"misc.h"
+
+N/Users/viraj/GitHub/Tremor/iPhoneOS/../window.c
+c000000004BCF880B0000000000000847
+t1271891979
+s2119
+i<stdlib.h>
+i<math.h>
+i"misc.h"
+i"window.h"
+i"window_lookup.h"
+
+N/Users/viraj/GitHub/Tremor/iPhoneOS/build/Debug-iphonesimulator/libvorbisidec.a
+t2
+s0
+
+N/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/bitwise.o
+t1271892279
+s8604
+
+N/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/block.o
+t1271892381
+s15016
+
+N/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/codebook.o
+t1271892381
+s11632
+
+N/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/floor0.o
+t2
+s0
+
+N/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/floor1.o
+t2
+s0
+
+N/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/framing.o
+t1271892381
+s27888
+
+N/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/info.o
+t1271892381
+s18492
+
+N/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/mapping0.o
+t1271892381
+s14208
+
+N/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/mdct.o
+t2
+s0
+
+N/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/registry.o
+t1271892381
+s5904
+
+N/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/res012.o
+t1271892381
+s15120
+
+N/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/sharedbook.o
+t2
+s0
+
+N/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/synthesis.o
+t1271892381
+s8184
+
+N/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/vorbisfile.o
+t2
+s0
+
+N/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/vorbisidec.LinkFileList
+c000000004BCF89370000000000000743
+t1271892279
+s1859
+
+N/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/window.o
+t2
+s0
+
+N/Users/viraj/GitHub/Tremor/ivorbiscodec.h
+c000000004BCF880B0000000000001A91
+t1271891979
+s6801
+i"ogg.h"
+
+N/Users/viraj/GitHub/Tremor/ivorbisfile.h
+c000000004BCF880B0000000000001294
+t1271891979
+s4756
+i<stdio.h>
+i"ivorbiscodec.h"
+
+N/Users/viraj/GitHub/Tremor/lsp_lookup.h
+c000000004BCF880B000000000000137F
+t1271891979
+s4991
+i"os_types.h"
+
+N/Users/viraj/GitHub/Tremor/mdct.h
+c000000004BCF880B00000000000005BE
+t1271891979
+s1470
+i"ivorbiscodec.h"
+i"misc.h"
+
+N/Users/viraj/GitHub/Tremor/mdct_lookup.h
+c000000004BCF880B00000000000080D1
+t1271891979
+s32977
+i"os_types.h"
+
+N/Users/viraj/GitHub/Tremor/misc.h
+c000000004BCF89780000000000001726
+t1271892344
+s5926
+i"ivorbiscodec.h"
+i"os.h"
+i"asm_arm.h"
+i<stdlib.h>
+i<sys/types.h>
+
+N/Users/viraj/GitHub/Tremor/ogg.h
+c000000004BCF880B0000000000001A33
+t1271891979
+s6707
+i"os_types.h"
+
+N/Users/viraj/GitHub/Tremor/os.h
+c000000004BCF880B00000000000006DF
+t1271891979
+s1759
+i<math.h>
+i"os_types.h"
+i<malloc.h>
+i<alloca.h>
+i<memory.h>
+
+N/Users/viraj/GitHub/Tremor/os_types.h
+c000000004BCF880B0000000000000A04
+t1271891979
+s2564
+i<_G_config.h>
+i<sys/types.h>
+i<sys/types.h>
+i<inttypes.h>
+i<sys/types.h>
+i"config_types.h"
+
+N/Users/viraj/GitHub/Tremor/registry.h
+c000000004BCF880B000000000000059B
+t1271891979
+s1435
+i"backends.h"
+
+N/Users/viraj/GitHub/Tremor/window.h
+c000000004BCF880B000000000000048D
+t1271891979
+s1165
+
+N/Users/viraj/GitHub/Tremor/window_lookup.h
+c000000004BCF880B000000000001F2F7
+t1271891979
+s127735
+i"os_types.h"
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies293585181#293585181#0(0"0(0#1#0"4300911832#0"0#
+
+CCompileC build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/bitwise.o /Users/viraj/GitHub/Tremor/iPhoneOS/../bitwise.c normal i386 c com.apple.compilers.gcc.4_2
+s293585079.390543
+e293585079.468771
+r1
+xCompileC
+xbuild/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/bitwise.o
+x/Users/viraj/GitHub/Tremor/iPhoneOS/../bitwise.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/viraj/GitHub/Tremor/iPhoneOS/../bitwise.c293585079#293585079#0(0"0(0#0#48"/Users/viraj/GitHub/Tremor/iPhoneOS/../bitwise.c4300911832#1669"    cd /Users/viraj/GitHub/Tremor/iPhoneOS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/vorbisidec-generated-files.hmap -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/vorbisidec-own-target-headers.hmap -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/vorbisidec-all-target-headers.hmap -iquote /Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/vorbisidec-project-headers.hmap -F/Users/viraj/GitHub/Tremor/iPhoneOS/build/Debug-iphonesimulator -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/Debug-iphonesimulator/include -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/DerivedSources/i386 -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/DerivedSources -c /Users/viraj/GitHub/Tremor/iPhoneOS/../bitwise.c -o /Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/bitwise.o0#
+
+CCompileC build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/block.o /Users/viraj/GitHub/Tremor/iPhoneOS/../block.c normal i386 c com.apple.compilers.gcc.4_2
+s293585181.223537
+e293585181.414705
+r1
+xCompileC
+xbuild/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/block.o
+x/Users/viraj/GitHub/Tremor/iPhoneOS/../block.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@54"Compile /Users/viraj/GitHub/Tremor/iPhoneOS/../block.c293585181#293585181#0(0"0(0#0#46"/Users/viraj/GitHub/Tremor/iPhoneOS/../block.c4300911832#1665"    cd /Users/viraj/GitHub/Tremor/iPhoneOS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/vorbisidec-generated-files.hmap -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/vorbisidec-own-target-headers.hmap -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/vorbisidec-all-target-headers.hmap -iquote /Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/vorbisidec-project-headers.hmap -F/Users/viraj/GitHub/Tremor/iPhoneOS/build/Debug-iphonesimulator -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/Debug-iphonesimulator/include -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/DerivedSources/i386 -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/DerivedSources -c /Users/viraj/GitHub/Tremor/iPhoneOS/../block.c -o /Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/block.o0#
+
+CCompileC build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/codebook.o /Users/viraj/GitHub/Tremor/iPhoneOS/../codebook.c normal i386 c com.apple.compilers.gcc.4_2
+s293585181.224569
+e293585181.335209
+r1
+xCompileC
+xbuild/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/codebook.o
+x/Users/viraj/GitHub/Tremor/iPhoneOS/../codebook.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/viraj/GitHub/Tremor/iPhoneOS/../codebook.c293585181#293585181#0(0"0(0#0#49"/Users/viraj/GitHub/Tremor/iPhoneOS/../codebook.c4300911832#1671"    cd /Users/viraj/GitHub/Tremor/iPhoneOS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/vorbisidec-generated-files.hmap -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/vorbisidec-own-target-headers.hmap -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/vorbisidec-all-target-headers.hmap -iquote /Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/vorbisidec-project-headers.hmap -F/Users/viraj/GitHub/Tremor/iPhoneOS/build/Debug-iphonesimulator -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/Debug-iphonesimulator/include -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/DerivedSources/i386 -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/DerivedSources -c /Users/viraj/GitHub/Tremor/iPhoneOS/../codebook.c -o /Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/codebook.o0#
+
+CCompileC build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/floor0.o /Users/viraj/GitHub/Tremor/iPhoneOS/../floor0.c normal i386 c com.apple.compilers.gcc.4_2
+s293585181.335323
+e293585181.429648
+r0
+xCompileC
+xbuild/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/floor0.o
+x/Users/viraj/GitHub/Tremor/iPhoneOS/../floor0.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+o/Users/viraj/GitHub/Tremor/iPhoneOS/../floor0.c: In function 'vorbis_lsp_to_curve':
+o/Users/viraj/GitHub/Tremor/iPhoneOS/../floor0.c:171: warning: unused variable 'shift'
+o/Users/viraj/GitHub/Tremor/iPhoneOS/../floor0.c:168: warning: unused variable 'j'
+o/Users/viraj/GitHub/Tremor/iPhoneOS/../asm_arm.h: In function 'lsp_loop_asm':
+o/Users/viraj/GitHub/Tremor/iPhoneOS/../asm_arm.h:134: error: unknown register name 'r3' in 'asm'
+o/Users/viraj/GitHub/Tremor/iPhoneOS/../asm_arm.h:134: error: unknown register name 'r2' in 'asm'
+o/Users/viraj/GitHub/Tremor/iPhoneOS/../asm_arm.h:134: error: unknown register name 'r1' in 'asm'
+o/Users/viraj/GitHub/Tremor/iPhoneOS/../asm_arm.h:134: error: unknown register name 'r0' in 'asm'
+o{standard input}:894:no such instruction: `smull %ecx, %esi,%edx,%eax'
+lSLF07#2@55"Compile /Users/viraj/GitHub/Tremor/iPhoneOS/../floor0.c293585181#293585181#0(789"/Users/viraj/GitHub/Tremor/iPhoneOS/../floor0.c: In function 'vorbis_lsp_to_curve':/Users/viraj/GitHub/Tremor/iPhoneOS/../floor0.c:171: warning: unused variable 'shift'/Users/viraj/GitHub/Tremor/iPhoneOS/../floor0.c:168: warning: unused variable 'j'/Users/viraj/GitHub/Tremor/iPhoneOS/../asm_arm.h: In function 'lsp_loop_asm':/Users/viraj/GitHub/Tremor/iPhoneOS/../asm_arm.h:134: error: unknown register name 'r3' in 'asm'/Users/viraj/GitHub/Tremor/iPhoneOS/../asm_arm.h:134: error: unknown register name 'r2' in 'asm'/Users/viraj/GitHub/Tremor/iPhoneOS/../asm_arm.h:134: error: unknown register name 'r1' in 'asm'/Users/viraj/GitHub/Tremor/iPhoneOS/../asm_arm.h:134: error: unknown register name 'r0' in 'asm'{standard input}:894:no such instruction: `smull %ecx, %esi,%edx,%eax'7(22@23"Unused variable 'shift'293585181#84#86#0(6@47"/Users/viraj/GitHub/Tremor/iPhoneOS/../floor0.c293584779#171#0#171#0#19"unused variable '*'0(22@19"Unused variable 'j'293585181#170#82#0(6@47"/Users/viraj/GitHub/Tremor/iPhoneOS/../floor0.c293584779#168#0#168#0#19"unused variable '*'0(4@35"Unknown register name 'r3' in 'asm'293585181#330#97#0(6@48"/Users/viraj/GitHub/Tremor/iPhoneOS/../asm_arm.h293585180#134#0#134#0#0"0(4@35"Unknown register name 'r2' in 'asm'293585181#427#97#0(6@48"/Users/viraj/GitHub/Tremor/iPhoneOS/../asm_arm.h293585180#134#0#134#0#0"0(4@35"Unknown register name 'r1' in 'asm'293585181#524#97#0(6@48"/Users/viraj/GitHub/Tremor/iPhoneOS/../asm_arm.h293585180#134#0#134#0#0"0(4@35"Unknown register name 'r0' in 'asm'293585181#621#97#0(6@48"/Users/viraj/GitHub/Tremor/iPhoneOS/../asm_arm.h293585180#134#0#134#0#0"0(4@49"No such instruction: `smull %ecx, %esi,%edx,%eax'293585181#718#71#0(6@16"{standard input}293585181#894#0#894#0#0"0(0#0#47"/Users/viraj/GitHub/Tremor/iPhoneOS/../floor0.c4300911832#1667"    cd /Users/viraj/GitHub/Tremor/iPhoneOS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/vorbisidec-generated-files.hmap -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/vorbisidec-own-target-headers.hmap -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/vorbisidec-all-target-headers.hmap -iquote /Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/vorbisidec-project-headers.hmap -F/Users/viraj/GitHub/Tremor/iPhoneOS/build/Debug-iphonesimulator -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/Debug-iphonesimulator/include -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/DerivedSources/i386 -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/DerivedSources -c /Users/viraj/GitHub/Tremor/iPhoneOS/../floor0.c -o /Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/floor0.o1#
+
+CCompileC build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/floor1.o /Users/viraj/GitHub/Tremor/iPhoneOS/../floor1.c normal i386 c com.apple.compilers.gcc.4_2
+s293585181.415208
+e293585181.557909
+r0
+xCompileC
+xbuild/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/floor1.o
+x/Users/viraj/GitHub/Tremor/iPhoneOS/../floor1.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+o{standard input}:1199:no such instruction: `smull %ecx, %esi,%edx,%eax'
+o{standard input}:1200:suffix or operands invalid for `movs'
+o{standard input}:1201:spurious operands; (3 operands/instruction max)
+lSLF07#2@55"Compile /Users/viraj/GitHub/Tremor/iPhoneOS/../floor1.c293585181#293585181#0(202"{standard input}:1199:no such instruction: `smull %ecx, %esi,%edx,%eax'{standard input}:1200:suffix or operands invalid for `movs'{standard input}:1201:spurious operands; (3 operands/instruction max)1(4@49"No such instruction: `smull %ecx, %esi,%edx,%eax'293585181#0#72#0(6@16"{standard input}293585181#1199#0#1199#0#0"0(0#0#47"/Users/viraj/GitHub/Tremor/iPhoneOS/../floor1.c4300911832#1667"    cd /Users/viraj/GitHub/Tremor/iPhoneOS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/vorbisidec-generated-files.hmap -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/vorbisidec-own-target-headers.hmap -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/vorbisidec-all-target-headers.hmap -iquote /Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/vorbisidec-project-headers.hmap -F/Users/viraj/GitHub/Tremor/iPhoneOS/build/Debug-iphonesimulator -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/Debug-iphonesimulator/include -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/DerivedSources/i386 -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/DerivedSources -c /Users/viraj/GitHub/Tremor/iPhoneOS/../floor1.c -o /Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/floor1.o1#
+
+CCompileC build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/framing.o /Users/viraj/GitHub/Tremor/iPhoneOS/../framing.c normal i386 c com.apple.compilers.gcc.4_2
+s293585181.429755
+e293585181.610505
+r1
+xCompileC
+xbuild/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/framing.o
+x/Users/viraj/GitHub/Tremor/iPhoneOS/../framing.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@56"Compile /Users/viraj/GitHub/Tremor/iPhoneOS/../framing.c293585181#293585181#0(0"0(0#0#48"/Users/viraj/GitHub/Tremor/iPhoneOS/../framing.c4300911832#1669"    cd /Users/viraj/GitHub/Tremor/iPhoneOS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/vorbisidec-generated-files.hmap -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/vorbisidec-own-target-headers.hmap -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/vorbisidec-all-target-headers.hmap -iquote /Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/vorbisidec-project-headers.hmap -F/Users/viraj/GitHub/Tremor/iPhoneOS/build/Debug-iphonesimulator -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/Debug-iphonesimulator/include -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/DerivedSources/i386 -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/DerivedSources -c /Users/viraj/GitHub/Tremor/iPhoneOS/../framing.c -o /Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/framing.o0#
+
+CCompileC build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/info.o /Users/viraj/GitHub/Tremor/iPhoneOS/../info.c normal i386 c com.apple.compilers.gcc.4_2
+s293585181.558015
+e293585181.662480
+r1
+xCompileC
+xbuild/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/info.o
+x/Users/viraj/GitHub/Tremor/iPhoneOS/../info.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@53"Compile /Users/viraj/GitHub/Tremor/iPhoneOS/../info.c293585181#293585181#0(0"0(0#0#45"/Users/viraj/GitHub/Tremor/iPhoneOS/../info.c4300911832#1663"    cd /Users/viraj/GitHub/Tremor/iPhoneOS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/vorbisidec-generated-files.hmap -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/vorbisidec-own-target-headers.hmap -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/vorbisidec-all-target-headers.hmap -iquote /Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/vorbisidec-project-headers.hmap -F/Users/viraj/GitHub/Tremor/iPhoneOS/build/Debug-iphonesimulator -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/Debug-iphonesimulator/include -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/DerivedSources/i386 -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/DerivedSources -c /Users/viraj/GitHub/Tremor/iPhoneOS/../info.c -o /Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/info.o0#
+
+CCompileC build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/mapping0.o /Users/viraj/GitHub/Tremor/iPhoneOS/../mapping0.c normal i386 c com.apple.compilers.gcc.4_2
+s293585181.610619
+e293585181.745696
+r1
+xCompileC
+xbuild/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/mapping0.o
+x/Users/viraj/GitHub/Tremor/iPhoneOS/../mapping0.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/viraj/GitHub/Tremor/iPhoneOS/../mapping0.c293585181#293585181#0(0"0(0#0#49"/Users/viraj/GitHub/Tremor/iPhoneOS/../mapping0.c4300911832#1671"    cd /Users/viraj/GitHub/Tremor/iPhoneOS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/vorbisidec-generated-files.hmap -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/vorbisidec-own-target-headers.hmap -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/vorbisidec-all-target-headers.hmap -iquote /Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/vorbisidec-project-headers.hmap -F/Users/viraj/GitHub/Tremor/iPhoneOS/build/Debug-iphonesimulator -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/Debug-iphonesimulator/include -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/DerivedSources/i386 -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/DerivedSources -c /Users/viraj/GitHub/Tremor/iPhoneOS/../mapping0.c -o /Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/mapping0.o0#
+
+CCompileC build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/mdct.o /Users/viraj/GitHub/Tremor/iPhoneOS/../mdct.c normal i386 c com.apple.compilers.gcc.4_2
+s293585181.662587
+e293585181.788741
+r0
+xCompileC
+xbuild/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/mdct.o
+x/Users/viraj/GitHub/Tremor/iPhoneOS/../mdct.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+o/Users/viraj/GitHub/Tremor/iPhoneOS/../asm_arm.h: In function 'XNPROD31':
+o/Users/viraj/GitHub/Tremor/iPhoneOS/../asm_arm.h:90: error: can't find a register in class 'GENERAL_REGS' while reloading 'asm'
+o/Users/viraj/GitHub/Tremor/iPhoneOS/../asm_arm.h:90: error: 'asm' operand has impossible constraints
+o{standard input}:2856:non-relocatable subtraction expression, "L_sincos_lookup1$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:2856:symbol: "L_sincos_lookup1$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:2852:non-relocatable subtraction expression, "L_sincos_lookup0$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:2852:symbol: "L_sincos_lookup0$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:2661:non-relocatable subtraction expression, "L_sincos_lookup1$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:2661:symbol: "L_sincos_lookup1$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:2657:non-relocatable subtraction expression, "L_sincos_lookup0$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:2657:symbol: "L_sincos_lookup0$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:2518:non-relocatable subtraction expression, "L_sincos_lookup1$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:2518:symbol: "L_sincos_lookup1$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:2512:non-relocatable subtraction expression, "L_sincos_lookup0$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:2512:symbol: "L_sincos_lookup0$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:2324:non-relocatable subtraction expression, "L_sincos_lookup0$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:2324:symbol: "L_sincos_lookup0$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:2178:non-relocatable subtraction expression, "L_sincos_lookup0$non_lazy_ptr" minus "L00000000001$pb"
+o{standard input}:2178:symbol: "L_sincos_lookup0$non_lazy_ptr" can't be undefined in a subtraction expression
+o{standard input}:unknown:Undefined local symbol L_sincos_lookup0$non_lazy_ptr
+o{standard input}:unknown:Undefined local symbol L_sincos_lookup1$non_lazy_ptr
+lSLF07#2@53"Compile /Users/viraj/GitHub/Tremor/iPhoneOS/../mdct.c293585181#293585181#0(2275"/Users/viraj/GitHub/Tremor/iPhoneOS/../asm_arm.h: In function 'XNPROD31':/Users/viraj/GitHub/Tremor/iPhoneOS/../asm_arm.h:90: error: can't find a register in class 'GENERAL_REGS' while reloading 'asm'/Users/viraj/GitHub/Tremor/iPhoneOS/../asm_arm.h:90: error: 'asm' operand has impossible constraints{standard input}:2856:non-relocatable subtraction expression, "L_sincos_lookup1$non_lazy_ptr" minus "L00000000001$pb"{standard input}:2856:symbol: "L_sincos_lookup1$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:2852:non-relocatable subtraction expression, "L_sincos_lookup0$non_lazy_ptr" minus "L00000000001$pb"{standard input}:2852:symbol: "L_sincos_lookup0$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:2661:non-relocatable subtraction expression, "L_sincos_lookup1$non_lazy_ptr" minus "L00000000001$pb"{standard input}:2661:symbol: "L_sincos_lookup1$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:2657:non-relocatable subtraction expression, "L_sincos_lookup0$non_lazy_ptr" minus "L00000000001$pb"{standard input}:2657:symbol: "L_sincos_lookup0$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:2518:non-relocatable subtraction expression, "L_sincos_lookup1$non_lazy_ptr" minus "L00000000001$pb"{standard input}:2518:symbol: "L_sincos_lookup1$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:2512:non-relocatable subtraction expression, "L_sincos_lookup0$non_lazy_ptr" minus "L00000000001$pb"{standard input}:2512:symbol: "L_sincos_lookup0$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:2324:non-relocatable subtraction expression, "L_sincos_lookup0$non_lazy_ptr" minus "L00000000001$pb"{standard input}:2324:symbol: "L_sincos_lookup0$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:2178:non-relocatable subtraction expression, "L_sincos_lookup0$non_lazy_ptr" minus "L00000000001$pb"{standard input}:2178:symbol: "L_sincos_lookup0$non_lazy_ptr" can't be undefined in a subtraction expression{standard input}:unknown:Undefined local symbol L_sincos_lookup0$non_lazy_ptr{standard input}:unknown:Undefined local symbol L_sincos_lookup1$non_lazy_ptr2(4@67"Can't find a register in class 'GENERAL_REGS' while reloading 'asm'293585181#74#128#0(6@48"/Users/viraj/GitHub/Tremor/iPhoneOS/../asm_arm.h293585180#90#0#90#0#0"0(4@40"'asm' operand has impossible constraints293585181#202#101#0(6@48"/Users/viraj/GitHub/Tremor/iPhoneOS/../asm_arm.h293585180#90#0#90#0#0"0(0#0#45"/Users/viraj/GitHub/Tremor/iPhoneOS/../mdct.c4300911832#1663"    cd /Users/viraj/GitHub/Tremor/iPhoneOS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/vorbisidec-generated-files.hmap -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/vorbisidec-own-target-headers.hmap -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/vorbisidec-all-target-headers.hmap -iquote /Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/vorbisidec-project-headers.hmap -F/Users/viraj/GitHub/Tremor/iPhoneOS/build/Debug-iphonesimulator -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/Debug-iphonesimulator/include -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/DerivedSources/i386 -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/DerivedSources -c /Users/viraj/GitHub/Tremor/iPhoneOS/../mdct.c -o /Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/mdct.o1#
+
+CCompileC build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/registry.o /Users/viraj/GitHub/Tremor/iPhoneOS/../registry.c normal i386 c com.apple.compilers.gcc.4_2
+s293585181.745808
+e293585181.802584
+r1
+xCompileC
+xbuild/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/registry.o
+x/Users/viraj/GitHub/Tremor/iPhoneOS/../registry.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@57"Compile /Users/viraj/GitHub/Tremor/iPhoneOS/../registry.c293585181#293585181#0(0"0(0#0#49"/Users/viraj/GitHub/Tremor/iPhoneOS/../registry.c4300911832#1671"    cd /Users/viraj/GitHub/Tremor/iPhoneOS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/vorbisidec-generated-files.hmap -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/vorbisidec-own-target-headers.hmap -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/vorbisidec-all-target-headers.hmap -iquote /Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/vorbisidec-project-headers.hmap -F/Users/viraj/GitHub/Tremor/iPhoneOS/build/Debug-iphonesimulator -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/Debug-iphonesimulator/include -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/DerivedSources/i386 -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/DerivedSources -c /Users/viraj/GitHub/Tremor/iPhoneOS/../registry.c -o /Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/registry.o0#
+
+CCompileC build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/res012.o /Users/viraj/GitHub/Tremor/iPhoneOS/../res012.c normal i386 c com.apple.compilers.gcc.4_2
+s293585181.788845
+e293585181.891649
+r1
+xCompileC
+xbuild/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/res012.o
+x/Users/viraj/GitHub/Tremor/iPhoneOS/../res012.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@55"Compile /Users/viraj/GitHub/Tremor/iPhoneOS/../res012.c293585181#293585182#0(0"0(0#0#47"/Users/viraj/GitHub/Tremor/iPhoneOS/../res012.c4300911832#1667"    cd /Users/viraj/GitHub/Tremor/iPhoneOS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/vorbisidec-generated-files.hmap -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/vorbisidec-own-target-headers.hmap -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/vorbisidec-all-target-headers.hmap -iquote /Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/vorbisidec-project-headers.hmap -F/Users/viraj/GitHub/Tremor/iPhoneOS/build/Debug-iphonesimulator -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/Debug-iphonesimulator/include -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/DerivedSources/i386 -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/DerivedSources -c /Users/viraj/GitHub/Tremor/iPhoneOS/../res012.c -o /Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/res012.o0#
+
+CCompileC build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/sharedbook.o /Users/viraj/GitHub/Tremor/iPhoneOS/../sharedbook.c normal i386 c com.apple.compilers.gcc.4_2
+s293585181.802700
+e293585181.927678
+r0
+xCompileC
+xbuild/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/sharedbook.o
+x/Users/viraj/GitHub/Tremor/iPhoneOS/../sharedbook.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+o{standard input}:1110:no such instruction: `smull %ecx, %esi,%edx,%eax'
+lSLF07#2@59"Compile /Users/viraj/GitHub/Tremor/iPhoneOS/../sharedbook.c293585181#293585182#0(72"{standard input}:1110:no such instruction: `smull %ecx, %esi,%edx,%eax'1(4@49"No such instruction: `smull %ecx, %esi,%edx,%eax'293585181#0#72#0(6@16"{standard input}293585181#1110#0#1110#0#0"0(0#0#51"/Users/viraj/GitHub/Tremor/iPhoneOS/../sharedbook.c4300911832#1675"    cd /Users/viraj/GitHub/Tremor/iPhoneOS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/vorbisidec-generated-files.hmap -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/vorbisidec-own-target-headers.hmap -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/vorbisidec-all-target-headers.hmap -iquote /Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/vorbisidec-project-headers.hmap -F/Users/viraj/GitHub/Tremor/iPhoneOS/build/Debug-iphonesimulator -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/Debug-iphonesimulator/include -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/DerivedSources/i386 -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/DerivedSources -c /Users/viraj/GitHub/Tremor/iPhoneOS/../sharedbook.c -o /Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/sharedbook.o1#
+
+CCompileC build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/synthesis.o /Users/viraj/GitHub/Tremor/iPhoneOS/../synthesis.c normal i386 c com.apple.compilers.gcc.4_2
+s293585181.891757
+e293585181.957710
+r1
+xCompileC
+xbuild/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/synthesis.o
+x/Users/viraj/GitHub/Tremor/iPhoneOS/../synthesis.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@58"Compile /Users/viraj/GitHub/Tremor/iPhoneOS/../synthesis.c293585181#293585182#0(0"0(0#0#50"/Users/viraj/GitHub/Tremor/iPhoneOS/../synthesis.c4300911832#1673"    cd /Users/viraj/GitHub/Tremor/iPhoneOS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/vorbisidec-generated-files.hmap -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/vorbisidec-own-target-headers.hmap -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/vorbisidec-all-target-headers.hmap -iquote /Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/vorbisidec-project-headers.hmap -F/Users/viraj/GitHub/Tremor/iPhoneOS/build/Debug-iphonesimulator -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/Debug-iphonesimulator/include -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/DerivedSources/i386 -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/DerivedSources -c /Users/viraj/GitHub/Tremor/iPhoneOS/../synthesis.c -o /Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/synthesis.o0#
+
+CCompileC build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/vorbisfile.o /Users/viraj/GitHub/Tremor/iPhoneOS/../vorbisfile.c normal i386 c com.apple.compilers.gcc.4_2
+s293585181.927784
+e293585182.167013
+r0
+xCompileC
+xbuild/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/vorbisfile.o
+x/Users/viraj/GitHub/Tremor/iPhoneOS/../vorbisfile.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+o{standard input}:7470:expecting operand after ','; got nothing
+o{standard input}:7471:no such instruction: `movpl %eax,'
+o{standard input}:7472:no such instruction: `orrpl %eax, %eax,'
+o{standard input}:7473:expecting operand after ','; got nothing
+o{standard input}:7474:no such instruction: `movmi %eax,'
+lSLF07#2@59"Compile /Users/viraj/GitHub/Tremor/iPhoneOS/../vorbisfile.c293585181#293585182#0(303"{standard input}:7470:expecting operand after ','; got nothing{standard input}:7471:no such instruction: `movpl %eax,'{standard input}:7472:no such instruction: `orrpl %eax, %eax,'{standard input}:7473:expecting operand after ','; got nothing{standard input}:7474:no such instruction: `movmi %eax,'3(4@34"No such instruction: `movpl %eax,'293585182#63#57#0(6@16"{standard input}293585182#7471#0#7471#0#0"0(4@40"No such instruction: `orrpl %eax, %eax,'293585182#120#63#0(6@16"{standard input}293585182#7472#0#7472#0#0"0(4@34"No such instruction: `movmi %eax,'293585182#246#57#0(6@16"{standard input}293585182#7474#0#7474#0#0"0(0#0#51"/Users/viraj/GitHub/Tremor/iPhoneOS/../vorbisfile.c4300911832#1675"    cd /Users/viraj/GitHub/Tremor/iPhoneOS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/vorbisidec-generated-files.hmap -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/vorbisidec-own-target-headers.hmap -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/vorbisidec-all-target-headers.hmap -iquote /Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/vorbisidec-project-headers.hmap -F/Users/viraj/GitHub/Tremor/iPhoneOS/build/Debug-iphonesimulator -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/Debug-iphonesimulator/include -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/DerivedSources/i386 -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/DerivedSources -c /Users/viraj/GitHub/Tremor/iPhoneOS/../vorbisfile.c -o /Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/vorbisfile.o1#
+
+CCompileC build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/window.o /Users/viraj/GitHub/Tremor/iPhoneOS/../window.c normal i386 c com.apple.compilers.gcc.4_2
+s293585181.957823
+e293585182.053212
+r0
+xCompileC
+xbuild/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/window.o
+x/Users/viraj/GitHub/Tremor/iPhoneOS/../window.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+o{standard input}:8576:no such instruction: `smull %ecx, %esi,%edx,%eax'
+lSLF07#2@55"Compile /Users/viraj/GitHub/Tremor/iPhoneOS/../window.c293585181#293585182#0(72"{standard input}:8576:no such instruction: `smull %ecx, %esi,%edx,%eax'1(4@49"No such instruction: `smull %ecx, %esi,%edx,%eax'293585182#0#72#0(6@16"{standard input}293585182#8576#0#8576#0#0"0(0#0#47"/Users/viraj/GitHub/Tremor/iPhoneOS/../window.c4300911832#1667"    cd /Users/viraj/GitHub/Tremor/iPhoneOS    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.sdk -mfix-and-continue -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/vorbisidec-generated-files.hmap -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/vorbisidec-own-target-headers.hmap -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/vorbisidec-all-target-headers.hmap -iquote /Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/vorbisidec-project-headers.hmap -F/Users/viraj/GitHub/Tremor/iPhoneOS/build/Debug-iphonesimulator -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/Debug-iphonesimulator/include -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/DerivedSources/i386 -I/Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/DerivedSources -c /Users/viraj/GitHub/Tremor/iPhoneOS/../window.c -o /Users/viraj/GitHub/Tremor/iPhoneOS/build/iPhoneOS.build/Debug-iphonesimulator/iPhoneOS.build/Objects-normal/i386/window.o1#
+
+CLibtool /Users/viraj/GitHub/Tremor/iPhoneOS/build/Debug-iphonesimulator/libvorbisidec.a normal i386
+r0
+
